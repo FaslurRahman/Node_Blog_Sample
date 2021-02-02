@@ -1,5 +1,5 @@
 Install npm
-Add dependencies given below----
+Add following dependencies ----
 "ejs": "^3.1.5",
     "express": "^4.17.1",
     "firebase": "^8.2.5",
